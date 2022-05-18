@@ -1,5 +1,5 @@
 nova modificação para testar o comando merge.
-
+antiga alteração em novoBranch
 novas alterações
 Esta modificação está sendo feita na ramificação principal.
 
