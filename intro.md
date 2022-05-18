@@ -1,5 +1,6 @@
 nova modificação para testar o comando merge.
-item 1
+novo item 1
+item 2
 novas alterações
 Esta modificação está sendo feita na ramificação principal.
 
